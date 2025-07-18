@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Bem vindo ao meu Blog!
 ---
